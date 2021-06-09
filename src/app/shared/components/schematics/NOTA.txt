@@ -1,0 +1,2 @@
+Copiar el compoennte donde se vaya a utilizar, e importarlo en el modulo correspondiente.
+También se podría hacer reutilizable enviandole los datos correctos
